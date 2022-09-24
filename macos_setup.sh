@@ -4,6 +4,9 @@ echo "Installing Homebrew..."
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 echo "Installing brew packages..."
+brew install git
+brew install gh
+
 brew install --cask copyclip
 brew install --cask discord
 brew install --cask github
