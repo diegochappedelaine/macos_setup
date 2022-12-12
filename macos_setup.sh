@@ -7,6 +7,7 @@ echo "Installing brew packages..."
 brew install git
 brew install gh
 
+brew install --cask caffeine
 brew install --cask copyclip
 brew install --cask discord
 brew install --cask github
