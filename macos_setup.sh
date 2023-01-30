@@ -18,6 +18,7 @@ brew install --cask notion
 brew install --cask postman
 brew install --cask raycast
 brew install --cask spotify
+brew install --cask via
 brew install --cask visual-studio-code
 
 echo "Installing nvm..."
