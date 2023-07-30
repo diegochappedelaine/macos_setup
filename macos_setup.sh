@@ -7,13 +7,13 @@ echo "Installing brew packages..."
 brew install git
 brew install gh
 
+brew install --cask arc
 brew install --cask caffeine
 brew install --cask copyclip
 brew install --cask discord
 brew install --cask github
 brew install --cask google-chrome
 brew install --cask iterm2
-brew install --cask jiggler
 brew install --cask notion
 brew install --cask postman
 brew install --cask raycast
